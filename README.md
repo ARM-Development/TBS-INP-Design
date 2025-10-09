@@ -6,13 +6,21 @@
 Color code in the drawing:
 
 White – 3D printed
+
 Blue – pump
+
 Purple – Cooling fan
+
 Black – battery
+
 Grey – metal parts
+
 Red – transmission
+
 Yellow – PCB
+
 Green – sensors
+
 Transparent – filter holders
 
 
