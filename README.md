@@ -3,6 +3,18 @@
 1. A drawing schematic of the PUFIN TBS INP sampler from the U.S. DOE ARM User Facility
 2. A list for all the parts needed to build PUFIN
 
+Color code in the drawing:
+
+White – 3D printed
+Blue – pump
+Purple – Cooling fan
+Black – battery
+Grey – metal parts
+Red – transmission
+Yellow – PCB
+Green – sensors
+Transparent – filter holders
+
 
 # A description of PUFIN can be found in the following paper:
 
