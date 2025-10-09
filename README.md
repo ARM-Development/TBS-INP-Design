@@ -18,7 +18,7 @@ Dexheimer, D., Whitson, G., Cheng, Z., Sammon, J., Gaustad, K., Mei, F., and Lon
 
 # Descriptions of the DOE INP and TBS programs can be found at:
 
-INS - https://armgov.svcs.arm.gov/capabilities/instruments/ins
+INP - https://armgov.svcs.arm.gov/capabilities/instruments/ins
 
 TBS - https://armgov.svcs.arm.gov/capabilities/instruments/tbs
 
@@ -35,5 +35,4 @@ TBS - Tethered Balloon System
 
 # For more information, contact:
 
-Jessie Creamean
-jessie.creamean@colostate.edu
+Jessie Creamean (jessie.creamean@colostate.edu)
